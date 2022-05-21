@@ -1,0 +1,37 @@
+city_id,city_name,country_id,country_name,currency_code
+1,Albany,216,United States,USD
+2,Athens,216,United States,USD
+3,Auckland,148,New Zealand,NZD
+4,Augusta,216,United States,USD
+5,Boise,216,United States,USD
+6,Brasilia,30,Brazil,BRL
+7,Cape Town,189,South Africa,ZAR
+8,Cebu City,162,Phillipines,PHP
+9,Chatham-Kent,37,Canada,CAD
+10,Colombo,191,Sri Lanka,SLR
+11,Columbus,216,United States,USD
+12,Dalton,216,United States,USD
+13,Davenport,216,United States,USD
+14,Des Moines,216,United States,USD
+15,Doha,166,Qatar,QAR
+16,Dubai,214,UAE,DIR
+17,Dukhan,166,Qatar,QAR
+18,Iowa City,216,United States,USD
+19,Istanbul,208,Turkey,LIR
+20,Jakarta,94,Indonesia,IDR
+21,Johannesburg,189,South Africa,ZAR
+22,Liverpool,215,United Kingdom,EUR
+23,London,215,United Kingdom,EUR
+24,Manchester,215,United Kingdom,EUR
+25,Manila,162,Phillipines,PHP
+26,Melbourne,14,Australia,AUS
+27,Mexico City,7,Mexico,MXN
+28,Monterrey,7,Mexico,MXN
+29,Mumbai,1,India,INR
+30,Perth,14,Australia,AUS
+31,Puebla,7,Mexico,MXN
+32,Sao Paulo,30,Brazil,BRL
+33,Singapore,184,Singapore,SGD
+34,Sydney,14,Australia,AUS
+35,Tijuana,7,Mexico,MXN
+36,Wellington City,148,New Zealand,NZD
